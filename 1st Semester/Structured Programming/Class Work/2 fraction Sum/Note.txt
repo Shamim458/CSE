@@ -1,0 +1,1 @@
+Consider a C program that prompts the user to enter two fractions and then siplays thier sum
